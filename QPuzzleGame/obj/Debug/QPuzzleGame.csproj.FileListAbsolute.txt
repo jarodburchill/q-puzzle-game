@@ -1,0 +1,12 @@
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.csprojAssemblyReference.cache
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.PlayForm.resources
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.DesignForm.resources
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.MainMenu.resources
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.Properties.Resources.resources
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.csproj.GenerateResource.cache
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\bin\Debug\QPuzzleGame.exe.config
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\bin\Debug\QPuzzleGame.exe
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\bin\Debug\QPuzzleGame.pdb
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.exe
+C:\Users\Jarod\Documents\Level 3\Game Programming\QPuzzleGame\JBurchillAssignment2\obj\Debug\QPuzzleGame.pdb

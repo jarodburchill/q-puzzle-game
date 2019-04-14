@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QPuzzleGame", "QPuzzleGame\QPuzzleGame.csproj", "{7DDBC4E8-0B1F-4954-8A61-4FC87E3E4082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDBC4E8-0B1F-4954-8A61-4FC87E3E4082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDBC4E8-0B1F-4954-8A61-4FC87E3E4082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDBC4E8-0B1F-4954-8A61-4FC87E3E4082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDBC4E8-0B1F-4954-8A61-4FC87E3E4082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70477166-7767-4A6B-938C-1F3C7BC15645}
+	EndGlobalSection
+EndGlobal

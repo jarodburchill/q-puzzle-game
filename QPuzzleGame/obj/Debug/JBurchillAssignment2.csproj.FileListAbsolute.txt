@@ -1,0 +1,12 @@
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\bin\Debug\assignment1.exe.config
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\bin\Debug\assignment1.exe
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\bin\Debug\assignment1.pdb
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\JBurchillAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\JBurchillAssignment2.DesignForm.resources
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\JBurchillAssignment2.MainMenu.resources
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\JBurchillAssignment2.csproj.GenerateResource.Cache
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\JBurchillAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\assignment1.exe
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\assignment1.pdb
+C:\Users\jarod\Documents\Conestoga\Level 3\JBurchillAssignment2\JBurchillAssignment2\obj\Debug\JBurchillAssignment2.PlayForm.resources
