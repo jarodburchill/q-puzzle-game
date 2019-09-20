@@ -1,1 +1,1 @@
-# QPuzzleGame
+# Q-Puzzle Game
